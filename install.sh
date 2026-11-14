@@ -24,6 +24,6 @@ peldungi_install() {
   open "$HOME/Applications/$APP"
   echo ""
   echo "Done! Look for Unnati's face in your top bar (near Wi-Fi)."
-  echo "Click it and pick 'I need motivation' or 'Mujhe daanto', or add a reminder."
+  echo "Click it and pick 'I need motivation', 'Mujhe daanto' or 'Meeting reminder'."
 }
 peldungi_install
